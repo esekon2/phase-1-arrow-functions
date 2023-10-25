@@ -7,7 +7,7 @@ divide();
 
 
 const square = (a) => a * a;
-square(5);
+square(10);
 
 
 const add = (a, b) => a + b;
